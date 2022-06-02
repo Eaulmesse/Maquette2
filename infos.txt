@@ -1,0 +1,9 @@
+Pour les icones, la bibliothèque utilisées et celle de font Awesome. 
+La bibliothèque ayant été mis à jour il y a peu, 
+je ne suis pas sur que toutes les icones présentes dans la maquette soient encore disponible. 
+On cherchera alors le plus approchant.
+
+https://fontawesome.com/
+
+Les deux polices de caractère sont l'open sans italic et la roboto slab.
+Normelement disponible dans google fonts.
